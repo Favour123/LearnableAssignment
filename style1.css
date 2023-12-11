@@ -1,5 +1,4 @@
 body{
-/* background-image:linear-gradient( to left,#b34339 40%,#c47b37 ) ; */
 margin: 0;
 padding: 0;
 box-sizing: border-box;
@@ -10,7 +9,7 @@ font-family: Poppins;
   justify-content: center;
   align-items: center;
   flex-shrink: 0; 
- background: url(image/luke-chesser-tgrBcf7S_dY-unsplash\ 1.png), lightgray 50%;
+ background: url(luke-chesser-tgrBcf7S_dY-unsplash\ 1.png), lightgray 50%;
  height: 100vh;
 }
 .center{
